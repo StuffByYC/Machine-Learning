@@ -1,4 +1,4 @@
-Explanation available at https://www.stuffbyyc.com/
+Explanation available at https://www.yadsmic.com/
 
 Dataset link: https://www.kaggle.com/stuffbyyc/sales-data
 
